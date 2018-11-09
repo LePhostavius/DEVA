@@ -2,7 +2,7 @@
 #define NAVALE_H_INCLUDED
 
 #include <string.h>
-//ASCII 64-74
+//ASCII 64-74 (A-J)
 
 typedef struct {int posx;  // Struct de 2 ccords qui serviront aux coups , aux marquages et au positionnement des bateaux
                 int posy;
